@@ -25,4 +25,8 @@ Download COCO dataset
     - unzip val2017.zip
     - unzip annotations_trainval2017.zip
 
-move attack.py in to the tensorflow-yolov4-tflite folder to work
+
+Notce: 
+    - weights file and coco folder must must be in the tensorflow-yolov4-tflite folder
+
+    - move attack.py in to the tensorflow-yolov4-tflite folder to work
