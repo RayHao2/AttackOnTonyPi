@@ -9,7 +9,8 @@ Deploy YOLOv4
     - git clone https://github.com/hunglc007/tensorflow-yolov4-tflite.git
 3. Put the weights into the folder
     - mv yolov4.weights ensorflow-yolov4-tflite
-4. Convert the YOLOv4 model
+4. cd tensorflow-yolov4-tflite
+5. Convert the YOLOv4 model
     - python save_model.py --weights yolov4.weights --output ./yolov4-tf --input_size 416 --model yolov4
 
 
