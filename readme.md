@@ -1,7 +1,13 @@
-Attadck on TonyPi
+# Physical Adversarial Attacks on [TonyPi](https://www.hiwonder.com/products/tonypi?variant=31753114681431&srsltid=AfmBOopxIpOs7H4BBHkRnz_MR7wPz5NMiYLelo-RYsxowIIdRvYZU5ua)
+
+## Group members: 
+Freya Zou, 
+Hamza Benaggoun,
+Matthew Beitler, 
+Hao Jun Chen
 
 
-Deploy YOLOv4
+## Deploy YOLOv4
 
 1. download YOLOv4 weights and configuration
     - wget https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights
@@ -15,7 +21,7 @@ Deploy YOLOv4
 
 
 
-Download COCO dataset
+## Download COCO dataset
 1. make dir name coco
     -mkdir coco && cd coco
 2. Download the zip file
